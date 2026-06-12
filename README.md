@@ -9,7 +9,7 @@
     <a href="https://linkedin.com/in/mdhossaincs">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="https://hossainmd-uc.github.io">
+    <a href="https://hossainmd-uc.github.io/vanilla-rainylens">
       <img src="https://img.shields.io/badge/Photography_Portfolio-121212?style=for-the-badge&logo=vsco&logoColor=white" alt="Photography Portfolio" />
     </a>
   </p>
@@ -38,7 +38,6 @@ I am a developer who bridges the gap between structured technical logic and visu
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
 </p>
 
 #### **Databases, Architecture & Tools**
@@ -60,12 +59,15 @@ I am a developer who bridges the gap between structured technical logic and visu
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hossainmd-uc&show_icons=true&theme=radical&hide_border=true" alt="Hossain's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hossainmd-uc&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hossainmd-uc&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C3D1D9" alt="Hossain's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hossainmd-uc&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C3D1D9" alt="Top Languages" />
+  
+  <br/><br/>
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hossainmd-uc&bg_color=transparent&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true&title_color=58A6FF" alt="Activity Graph" />
 </div>
 
 ---
