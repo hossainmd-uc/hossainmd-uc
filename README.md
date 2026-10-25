@@ -3,7 +3,7 @@
   <h3>IT Support Specialist | Systems Administrator | Software Developer</h3>
 
   <p align="center">
-    <a href="mailto:hossainmd@uchicago.edu">
+    <a href="mailto:hossainmd1@outlook.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
     <a href="https://linkedin.com/in/mdhossaincs">
