@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi there, I'm Hossain! 👋</h1>
-  <h3>IT Specialist | Systems Administrator | Software Developer</h3>
+  <h3>IT Specialist | Software Developer</h3>
 
   <p align="center">
     <a href="mailto:hossainmd1@outlook.com">
